@@ -1,0 +1,4 @@
+#define FIREBASE_AUTH "d2IfmHu4EmSx2qlBoGJDLDwTpoiulsv9sgmNNoms" 
+#define FIREBASE_HOST "smart-waste-management-f1f00-default-rtdb.firebaseio.com"
+#define WIFI_SSID "Indhu"
+#define WIFI_PASSWORD "indhu2403"
